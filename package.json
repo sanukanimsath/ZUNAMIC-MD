@@ -1,7 +1,7 @@
 {
-  "name": "Aquabot-MD",
+  "name": "ZUNAMIC-MD",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
+  "description": "this project is under revew.",
   "main": "/aquabot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -10,8 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "sanuka nimsath",
+  "base developer": "sanuwa",
+  "developer": "sanuka nimsath"
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
