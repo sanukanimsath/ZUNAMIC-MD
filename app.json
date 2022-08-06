@@ -1,8 +1,7 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
-    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
+    "name": "ZUNAMIC - MD",
+    "description": "NOT COMPLETE THIS PROJECT",
+    "keywords": ["whatsapp", "userbot", "zu", "bot", "xi" , "MD" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
     "website":   "https://aquabot.ga/",
     "success_url": "https://aquabot.ga",
@@ -26,48 +25,12 @@
             "description": "",
             "required": true
              },
-            "OWN_NAME": {
-            "description": "",
-            "value": "Sanuwa Official" ,
-            "required": true
-             },
-             "OWN_NUMBER": {
-            "description": "",
-            "value": "94701629707" ,
-            "required": true
-             },
        
             "AUTO_REACT": {
             "description": "",
             "value": "false" ,
             "required": true
-             },
-           
-           "URL_1NAME": {
-            "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
-            "required": true
-      },
-           "URL_1LINK": {
-            "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
-            "required": true
-      },
-     "URL_2NAME": {
-            "description": "",
-            "value": "💻GITHUB💻" ,
-            "required": true
-      },
-       "URL_2LINK": {
-            "description": "",
-            "value": "https://github.com/sanuwaofficial" ,
-            "required": true
-      },
-       "FOOTER": {
-            "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
-            "required": true
-      },
+            },
      "ANTI_LINK": {
             "description": "",
             "value": "false" ,
@@ -75,7 +38,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© POWERED BY ZUNAMIC-MD BOT" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -95,12 +58,7 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
-            "required": true
-      },
-      "DEPLOYER": {
-            "description": "",
-            "value": "AQUA USER" ,
+            "value": "" ,
             "required": true
       },
        "SONG_DOWN": {
@@ -133,14 +91,9 @@
             "value": "*📤Uploading your file...*" ,
             "required": true
       },
-          "STIC_WM": {
-            "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
-            "required": true
-      },
           "WORK_TYPE": {
             "description": "",
-            "value": "public" ,
+            "value": "private" ,
             "required": true
       },
          "SUDO": {
